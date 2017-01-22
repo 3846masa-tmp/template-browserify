@@ -1,4 +1,5 @@
 {
+  "map": false,
   "use": [
     "postcss-import",
     "postcss-url",
