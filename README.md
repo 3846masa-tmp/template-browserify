@@ -13,19 +13,24 @@
 
 ## Install
 
-```
+```bash
+git clone https://github.com/3846masa/template-browserify.git
+cd template-browserify
+yarn install
 ```
 
 ## Usage
 
-```
+```bash
+# watch
+yarn start
+# build
+yarn run build
 ```
 
 ## Contribute
 
-
-
-Small note: If editing the README, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
+PRs accepted.
 
 ## License
 
