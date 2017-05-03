@@ -1,5 +1,7 @@
 # template-browserify
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/3846masa/template-browserify.svg)](https://greenkeeper.io/)
+
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 > Template
